@@ -1,0 +1,30 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.inputElement{
+    padding-left: 30px;
+    width: 400px;
+    height: 50px;
+    border: 2px solid blueviolet;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.fa-magnifying-glass{
+    
+    position: relative;
+    left: -40px;
+    top:10px;
+    font-size: 30px;
+
+
+
+}
+
+.fa-circle-arrow-left{
+    font-size: 20px;
+}
